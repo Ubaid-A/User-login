@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+form{
+    text-align: center;
+    margin: 50px auto;
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    background-color: #032d3a;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+.bx-user{
+    font-size: 40px;
+    border-radius: 50% ;
+    background: white;
+    color: black;
+    min-width: 50x;
+    text-align: center;
+}
+.bx-lock-open-alt{
+    font-size: 40px;
+    border-radius: 50% ;
+    background: white;
+    color: black;
+    min-width: 50px;
+    text-align: center;
+}
+h2{
+    
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-size: 25px;
+    color: wheat;
+    
+}
+.inp-cont{
+    padding: 10px;
+    margin: 40px 40px 40px 40px;
+    display: flex;
+    
+
+}
+.input-1{
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+.input-2{
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+
+
+.inp-cont input{
+    padding: 10px;
+    font-size: 20px;
+}
+
+
+.btn{
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    padding: 9px 130px;
+    margin: 50px;
+    margin-top: auto;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+  .btn:hover {
+    color: blue;
+  }
